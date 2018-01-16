@@ -1,7 +1,7 @@
 {
   "name": "ink-spaces",
   "version": "0.0.1",
-  "description": "A component for adding spaces to your Ink components.",
+  "description": "Whitespace components for your Ink components.",
   "main": "dist/index.js",
   "author": "Colton Colcleasure <colshacol@gmail.com>",
   "homepage": "https://github.com/colshacol/ink-spaces#readme",
