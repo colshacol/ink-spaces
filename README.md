@@ -11,7 +11,7 @@ npm i -S ink-spaces
 ### BlankLine
 
 ```jsx
-import { BlankLine } from 'inks-spaces';
+import { BlankLine } from 'ink-spaces';
 
 <BlankLine />
 ```
@@ -19,7 +19,7 @@ import { BlankLine } from 'inks-spaces';
 ### BlankLines
 
 ```jsx
-import { BlankLines } from 'inks-spaces';
+import { BlankLines } from 'ink-spaces';
 
 <BlankLines count={3} />
 ```
@@ -27,7 +27,7 @@ import { BlankLines } from 'inks-spaces';
 ### Space
 
 ```jsx
-import { Space } from 'inks-spaces';
+import { Space } from 'ink-spaces';
 
 <Space />
 ```
@@ -35,7 +35,7 @@ import { Space } from 'inks-spaces';
 ### Spaces
 
 ```jsx
-import { Spaces } from 'inks-spaces';
+import { Spaces } from 'ink-spaces';
 
 <Spaces count={3} />
 ```
@@ -43,7 +43,7 @@ import { Spaces } from 'inks-spaces';
 ### Tab
 
 ```jsx
-import { Tab } from 'inks-spaces';
+import { Tab } from 'ink-spaces';
 
 <Tab />
 ```
@@ -51,7 +51,7 @@ import { Tab } from 'inks-spaces';
 ### Tabs
 
 ```jsx
-import { Tabs } from 'inks-spaces';
+import { Tabs } from 'ink-spaces';
 
 <Tabs count={3} />
 ```

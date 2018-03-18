@@ -20,9 +20,6 @@
     "@babel/plugin-proposal-pipeline-operator",
     "@babel/plugin-proposal-optional-catch-binding",
     "@babel/plugin-proposal-function-bind",
-    "@babel/plugin-check-constants",
-    "@babel/plugin-proposal-export-default-from",
-    "@babel/plugin-proposal-export-namespace-from",
     "@babel/plugin-proposal-decorators",
     [
       "@babel/plugin-proposal-class-properties",
@@ -45,7 +42,6 @@
     ["babel-plugin-module-resolver", {
       "root": ["./source"],
       "alias": {
-        "@utilities": "./source/utilities",
         "@components": "./source/components",
         "@consts": "./source/consts"
       }
